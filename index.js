@@ -14,3 +14,5 @@ app.use(async ctx => {
 app.listen(3000, () => {
     console.log('Servidor lanzado en el 3000 🚀')
 })
+
+console.log('Hola')
