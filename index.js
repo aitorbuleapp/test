@@ -17,3 +17,6 @@ app.listen(3000, () => {
 
 console.log('Hola')
 console.log('Que tal')
+
+const sayHelloGit = () => 'Hola Git'; 
+sayHelloGit(); 
